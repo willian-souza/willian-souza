@@ -4,7 +4,7 @@
 ### 🚀 About me
 - 👨‍🎓 Bachelor of Computer Science from the University Center of Adamantina
 - 🔭 I’m currently working as Information Technology Coordinator at the Federal Institute of São Paulo - Campus Tupã
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m currently learning FrontEnd Web Development
 - 💬 Ask me about: Anything!, I'm happy to help ✌️
 - ❤️ Hobbies: Crossfit🏋|| Video games 🎮 || Animes ☯ || Netflix 🎞
 - ⚡ Fun fact: Most developer loves coffee ☕, but i prefer milk 🥛
@@ -14,13 +14,10 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <br>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 ##
 ### 📫 Reach me
 <code><a href="https://www.linkedin.com/in/willian-ssouza/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
