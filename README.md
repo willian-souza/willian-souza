@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Most developer loves coffee ☕, but i prefer milk 🥛
 ##
 ### 💻 Languages and Tools
-<code><img height="50" src="https://github.com/willian-souza/willian-souza/blob/main/Sem%20t%C3%ADtulo.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://github.com/willian-souza/willian-souza/blob/main/Sem%20t%C3%ADtulo.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
